@@ -41,14 +41,12 @@ To run this application locally, follow these steps:
 
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or even pull requests to help improve the Expense Tracker App.
 
-Please follow our [Contribution Guidelines](CONTRIBUTING.md) for detailed information on how to contribute to this project.
-
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ## Contact
 
-If you have any questions or need assistance, please contact us at [sujaypaul0912.com](mailto:your-email@example.com).
+If you have any questions or need assistance, please contact us at [sujaypaul0912@gmail.com](mailto:your-email@example.com).
 
 Thank you for using the Expense Tracker App!
