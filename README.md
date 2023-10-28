@@ -1,6 +1,5 @@
 # Expense Tracker App
 
-![Expense Tracker App](app_screenshot.png)
 
 The Expense Tracker App is a mobile application built with Flutter that allows users to efficiently manage their expenses. This README provides essential information about the app, including how to set it up and run it on your local machine.
 
