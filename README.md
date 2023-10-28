@@ -49,6 +49,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ## Contact
 
-If you have any questions or need assistance, please contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need assistance, please contact us at [sujaypaul0912.com](mailto:your-email@example.com).
 
 Thank you for using the Expense Tracker App!
